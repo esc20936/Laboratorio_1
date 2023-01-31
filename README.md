@@ -28,3 +28,7 @@ considerar las siguientes restricciones:
 ![Alt text](/GENERATED_IMAGES/GENERATED_SOLUTION_lab2_BFS.png?raw=true "BFS")
 ![Alt text](/GENERATED_IMAGES/GENERATED_SOLUTION_lab2_DFS.png?raw=true "DFS")
 
+## Ejecución
+
+[video](https://youtu.be/wcvQxskwNiw)
+
