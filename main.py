@@ -1,7 +1,6 @@
 # Autor: Pablo Escobar
 # Date: 30/01/2023
 # Descripcion: Programa que resuelve un laberinto graph search
-
 import sys
 import numpy as np
 from PIL import Image as im
